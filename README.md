@@ -3,6 +3,6 @@ Calculate the theoretical trace inductance of a straight PCB trace after the Ter
 
 
 
-![Screenshot_3D](images/sGUI_3D_readme.png)
+![Screenshot_3D](Images/sGUI_3D_readme.png)
 
-![Screenshot_2D](images/GUI_2D_readme.png)
+![Screenshot_2D](Images/GUI_2D_readme.png)
