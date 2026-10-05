@@ -12,3 +12,8 @@ Furthermore - for HF/RF applications - parasitics, such as capacitance, can sign
 ![Screenshot_3D](Images/GUI_3D_readme.png)
 
 ![Screenshot_2D](Images/GUI_2D_readme.png)
+
+&nbsp;
+
+# Development Note:
+The GUI was developed with the assistance of AI tools.
